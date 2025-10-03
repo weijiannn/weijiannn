@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Wei Jian 👋
 
-<!--
-**weijiannn/weijiannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at the University of Warwick, interested in AI, machine learning, and financial analytics.
 
-Here are some ideas to get you started:
+## 🔭 Projects
+- [Facial Emotion Recognition using CNN](https://github.com/weijiannn/Facial-Emotion-Recognition-using-CNN)
+- [Premier League Winner Prediction](https://github.com/weijiannn/premier-league-prediction)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+Python | R | Machine Learning | Deep Learning | Data Visualization | SQL
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/wei-jian/) | Email: your.email@example.com
