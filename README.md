@@ -5,7 +5,7 @@ I'm a **Data Science student at the University of Warwick** with a passion for *
 I’m also the **Head of Projects at Warwick AI Society**, where I plan and coordinate term-to-term projects for individuals and groups, mentor members, and promote hands-on AI learning.
 
 ## 🔭 Projects
-- [Facial Emotion Recognition using CNN](https://github.com/weijiannn/Facial-Emotion-Recognition-using-CNN)
+- [Facial Emotion Recognition](https://github.com/weijiannn/Facial-Emotion-Recognition-using-CNN)
 - [Premier League Winner Prediction](https://github.com/weijiannn/premier-league-prediction)
 
 ## 💻 Skills
