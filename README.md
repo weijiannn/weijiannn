@@ -6,7 +6,7 @@ I’m also the **Head of Projects at Warwick AI Society**, where I plan and coor
 
 ## 🔭 Projects
 - [Facial Emotion Recognition](https://github.com/weijiannn/Facial-Emotion-Recognition-using-CNN)
-- [Premier League Winner Prediction](https://github.com/weijiannn/premier-league-prediction)
+- [Premier League Winner Prediction](https://github.com/weijiannn/Predicting-Premier-League-Winner-with-Random-Forest)
 
 ## 💻 Skills
 Python, R, SQL, Microsoft Power BI, Tableau, Alteryx, Microsoft Excel, Microsoft Access, Java, HTML, CSS, Microsoft Word, Microsoft PowerPoint, Adobe Photoshop, Adobe Premiere Pro, Adobe Dreamweaver.
