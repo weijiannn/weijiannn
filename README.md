@@ -5,7 +5,7 @@ I'm a **Data Science student at the University of Warwick** with a passion for *
 I’m also the **Head of Projects at Warwick AI Society**, where I plan and coordinate term-to-term projects for individuals and groups, mentor members, and promote hands-on AI learning.
 
 ## 🔭 Projects
-- [LLM-Powered Smartphone Shopping Assistant]()
+- [LLM-Powered Smartphone Shopping Assistant](https://github.com/weijiannn/Smartphone-Shopping-Assistant)
 - [Facial Emotion Recognition](https://github.com/weijiannn/Facial-Emotion-Recognition-using-CNN)
 - [Premier League Winner Prediction](https://github.com/weijiannn/Predicting-Premier-League-Winner-with-Random-Forest)
 
